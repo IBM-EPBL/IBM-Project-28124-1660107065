@@ -2,13 +2,13 @@
 Real-Time Communication System Powered by AI for Specially Abled
 ## Team members:
 
-Yuvaraj R
+1.Yuvaraj R
 
-Shafiq M
+2.Shafiq M
 
-Sushant
+3.Sushanth V
 
-Varun Kumar M
+4.Varun Kumar M
 
 
 | Industry Mentor(s) Name | : | Divya                       |
